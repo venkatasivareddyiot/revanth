@@ -1,4 +1,5 @@
 int led=13;
+int butto1n=A0;
 int button=2;
 int count=0;
 int ledState=HIGH;
